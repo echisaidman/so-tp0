@@ -6,8 +6,11 @@
 		{
 			"path": "server"
 		},
+		// {
+		// 	"path": "tp0"
+		// },
 		{
-			"path": "tp0"
+			"path": "shared"
 		}
 	]
 }
