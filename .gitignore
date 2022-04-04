@@ -1,1 +1,5 @@
 *.o
+
+tp0/tp0
+client/client
+server/server
