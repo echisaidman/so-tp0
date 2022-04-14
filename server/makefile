@@ -1,5 +1,5 @@
 PROCESS_NAME=server
-IDIR =./include
+IDIR =./src
 SHARED_IDIR = ../shared/include
 CC=gcc
 CFLAGS=-I$(IDIR) -I$(SHARED_IDIR) -g -Wall
