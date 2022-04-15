@@ -8,6 +8,8 @@
 
 int main(void)
 {
+	//METO UN COMENTARIO CUALQUIERA
+	//SAIDMAN ES PUTAZO
 	int conexion;
 
 	/* ---------------- LOGGING ---------------- */
